@@ -134,10 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Hugging Face](https://huggingface.co/) for the Diffusers library
 - [Gradio](https://gradio.app/) for the web interface
 
-## 📧 Contact
 
-
-Project Link: [https://github.com/YourUsername/ai-image-generator](https://github.com/viraj7676/ai-image-generator)
 
 ---
 ## Output 
